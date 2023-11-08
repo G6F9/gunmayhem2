@@ -7,7 +7,7 @@
 <body>
   <script src="https://cdn.jsdelivr.net/gh/ruffleforunblockedgame/ruf2023@main/ruffle.js"></script>
   <object width="1100" height="700">
-    <param name="movie" value="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=600&container=enterprise/https://g6f9.github.io/gunmayhem2/gun-mayhem-2.0.swf">
+    <param name="movie" value="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=600&container=enterprise/https://g6f9.github.io/gunmayhem2/gun-mayhem-2.0.swf">;
     <embed src="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=600&container=enterprise/https://g6f9.github.io/gunmayhem2/gun-mayhem-2.0.swf" width="100%" height="100%">
   </object>
 </body>
